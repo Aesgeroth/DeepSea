@@ -72,6 +72,11 @@ Once that's done, the next region is the Dragon Palace (frost area) attached to 
 After our stat item is finished, we can start collecting the 3 pieces needed for tiering up at level 200.
 First we need our mainstat item, each of which drop in a different room.
 
+# Side Note
+The bosses and minibosses in dragon palace can drop a yellow medallion item (+8000 hp), so keep an eye out for that. It will be your third item and upgrades more over the course of the game.
+
+![](https://image.ibb.co/dahH5e/Frost_Zone_Hp_Item.png)
+
 Strength characters need the red hood from the untranslated room miniboss.
 
 ![](https://preview.ibb.co/kFH0Qe/Frost_Zone_Str_Drop.png)
@@ -110,3 +115,15 @@ When you have the boss drop, use the "hg" command to teleport back to town.
 
 Do not use the tier up potion unless your character is level 200. If you do, you will have to refarm the entire thing.
 Put all 3 tier items on your hero and walk up to the fountain in town to combine them into a potion. Drink it to tier up.
+
+If you haven't found a yellow hp medallion yet, go farm the bosses in Art Hall until you have one then move on.
+
+![](https://image.ibb.co/dahH5e/Frost_Zone_Hp_Item.png)
+
+The next region in line is the undead area to right of the first town.
+Upgrade your stat item to +5 here.
+
+![](https://image.ibb.co/fUL4ke/Undead_Egg.png)
+
+There are also harder mobs in the northern part of the region with higher droprates.
+
