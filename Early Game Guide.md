@@ -106,6 +106,7 @@ If the main boss is too difficult, make sure you've spent all your gold on allst
 
 When you have the boss drop, use the "hg" command to teleport back to town.
 
-#Important note
+# Important note
+
 Do not use the tier up potion unless your character is level 200. If you do, you will have to refarm the entire thing.
 Put all 3 tier items on your hero and walk up to the fountain in town to combine them into a potion. Drink it to tier up.
