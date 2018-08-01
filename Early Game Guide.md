@@ -31,13 +31,13 @@ For now, once you have your stat item at +3 and you have a moon key with any kin
 
 ![](https://image.ibb.co/mOoPke/Waterfall.png)
 
-Once in the new region, we will farm our stat item up to +5 the same way we did before.
+Once in the new region, we will farm our stat item up to +3 the same way we did before.
 
 This region and the next two all have the same egg drops, so you can farm in any of them. The higher regions have harder mobs but also higher droprates, and if there are a lot of new players around, regions may become cramped.
 
 ![](https://preview.ibb.co/dfpmyz/Ship_Graveyard.png)
 
-Once your stat item is +5 and you have hit level 80, it's time to tier up.
+Once your stat item is +5 and you have hit level 80, it's time to tier up. Head to the Outlaw Residence cave in the region just to the left of the first town.
 
 ![](https://image.ibb.co/dobMWK/T1_Boss_Entry.png)
 
@@ -55,3 +55,57 @@ The last drop from the tier boss is a weapon that looks like a gemstone. While i
 
 ![](https://image.ibb.co/hUj8Tz/Weapons.png)
 
+After we've tiered and hopefully gotten our weapon, it's time to move on to the first town.
+
+![](https://preview.ibb.co/khjarK/Town_1.png)
+
+Here you can heal at the fountain and spend all your gold on allstat upgrades at the obelisk. Don't upgrade just your mainstat as there are item and region entrance requirements which need allstats.
+
+![](https://image.ibb.co/nOfWWK/Obelisk_Allstats.png)
+
+Buy the "G" and "T" hotkey tomes for allstats. If you earned any early tickets from math quizes or races up until now, you can sell them for some early stats. Past level 200 though I would recommend keeping any tickets you get for later upgrades.
+
+Once that's done, the next region is the Dragon Palace (frost area) attached to the bottom right corner of down. Break the door and go grind mobs until you have a +5 stat item.
+
+![](https://image.ibb.co/c04arK/Frost_Zone_Eggs.png)
+
+After our stat item is finished, we can start collecting the 3 pieces needed for tiering up at level 200.
+First we need our mainstat item, each of which drop in a different room.
+
+Strength characters need the red hood from the untranslated room miniboss.
+
+![](https://preview.ibb.co/kFH0Qe/Frost_Zone_Str_Drop.png)
+
+Intelligence characters need the scroll from the Art Hall.
+
+![](https://image.ibb.co/nwpx5e/Frost_Zone_Int_Drop.png)
+
+Agility characters need the cheese from the Kitchen.
+
+![](https://image.ibb.co/ng04ke/Frost_Zone_Agi_Drop.png)
+
+With our mainstat item in hand, we can move on to the next piece needed to tier. In the bottom left corner of the dragon palace is a statue with a red symbol beside it, stand on the symbol to use the teleport. Warp4 leads to the plant boss room, who drops the second piece we need to tier.
+
+![](https://preview.ibb.co/i1sBWK/Frost_Zone_Statue.png)
+
+This boss has slow moving bombardment attacks that will oneshot you if they hit, so kite around him until you can punch him to death. Or just make suicide runs and put your bag in the room to collect any drops.
+
+![](https://image.ibb.co/kWteJz/T2_Plant_Missiles.png)
+
+![](https://preview.ibb.co/kCjVQe/T2_Plant_Drop.png)
+
+Now it's time for the last piece of our tier up item.
+
+![](https://image.ibb.co/emhTBK/T2_Boss_Room_Key.png)
+
+The miniboss in the Audience Chamber drops keys to go in the boss room, make sure you put it on your hero and not your bag or you will waste the charge.
+
+If the main boss is too difficult, make sure you've spent all your gold on allstat upgrades from the obelisk at town, or party up with someone else. Or failing that, just grind it down with suicide runs. Selling a couple tickets for gold makes a big difference early on if you need the extra help.
+
+![](https://image.ibb.co/b4RYdz/T2_Boss_Drop.png)
+
+When you have the boss drop, use the "hg" command to teleport back to town.
+
+#Important note
+Do not use the tier up potion unless your character is level 200. If you do, you will have to refarm the entire thing.
+Put all 3 tier items on your hero and walk up to the fountain in town to combine them into a potion. Drink it to tier up.
