@@ -35,3 +35,5 @@ Your stat item goes to +8 here.
 ![](https://image.ibb.co/g3RMWK/Zombies_Phase_Boss.png)
 
 The zombies beside town 3 have a chance to spawn a phase boss as you kill them, which we will be using for our next tier at 10k stats (Base + Bonus), as well as our next gemstone weapon. Once you've finished your stat item, you can farm any remaining base stats here or back in the shark cave.
+
+After we've tiered up, it's time to move on to the next areas. Once again, the next three mob types all drop the same eggs, with higher mobs having a higher chance to drop. For this set, I'd recommend farming banshees as there are only four voidwalkers past them and they respawn far apart. The banshees are much more numerous and seem to have a pretty reasonable droprate.
