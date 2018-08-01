@@ -109,6 +109,8 @@ If the main boss is too difficult, make sure you've spent all your gold on allst
 
 ![](https://image.ibb.co/b4RYdz/T2_Boss_Drop.png)
 
+As with the previous tier, this boss drops a gemstone weapon. Once again, it's a moderate boost to farming speeds and is an item you will eventually require to later craft with, so I'd recommend staying for it. That being said, you could also come back for it later if grinding the boss is too difficult right now or there are too many other players needing drops there.
+
 When you have the boss drop, use the "hg" command to teleport back to town.
 
 # Important note
