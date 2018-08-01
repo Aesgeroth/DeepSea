@@ -37,7 +37,7 @@ This region and the next two all have the same egg drops, so you can farm in any
 
 ![](https://preview.ibb.co/dfpmyz/Ship_Graveyard.png)
 
-Once your stat item is +5 and you have hit level 80, it's time to tier up. Head to the Outlaw Residence cave in the region just to the left of the first town.
+Once your stat item is +3 and you have hit level 80, it's time to tier up. Head to the Outlaw Residence cave in the region just to the left of the first town.
 
 ![](https://image.ibb.co/dobMWK/T1_Boss_Entry.png)
 
