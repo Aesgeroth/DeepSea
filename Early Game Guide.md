@@ -129,3 +129,4 @@ Upgrade your stat item to +5 here.
 
 There are also harder mobs in the northern part of the region with higher droprates.
 
+I'm calling this the end of "early game," with the rest continuing on in "Mid Game Guide." This is mostly to cut down on the amount of screenshots that need to load at a time, and to avoid bringing in too many things that might confuse or overwhelm new players.
