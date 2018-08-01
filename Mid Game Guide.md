@@ -10,7 +10,9 @@ If you don't have 3k allstats, this is probably the best place for you to farm u
 
 ![](https://image.ibb.co/ga1VQe/Phase1.png)
 
-After you've tiered, it's time to try out the shark cave.
+![](https://image.ibb.co/hUj8Tz/Weapons.png)
+
+After you've tiered, it's time to try out the shark cave in the bottom right corner of the undead region.
 
 ![](https://image.ibb.co/jNeQrK/Shark_Graveyard_Outside.png)
 
