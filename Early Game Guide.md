@@ -65,7 +65,7 @@ Here you can heal at the fountain and spend all your gold on allstat upgrades at
 
 Buy the "G" and "T" hotkey tomes for allstats. If you earned any early tickets from math quizes or races up until now, you can sell them for some early stats. Past level 200 though I would recommend keeping any tickets you get for later upgrades.
 
-Once that's done, the next region is the Dragon Palace (frost area) attached to the bottom right corner of down. Break the door and go grind mobs until you have a +5 stat item.
+Once that's done, the next region is the Dragon Palace (frost area) attached to the bottom right corner of town. Break the door and go grind mobs until you have a +5 stat item.
 
 ![](https://image.ibb.co/c04arK/Frost_Zone_Eggs.png)
 
