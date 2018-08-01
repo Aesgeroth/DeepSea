@@ -16,3 +16,7 @@ To upgrade your egg drops, hold two at the same time and type -create
 ![](https://image.ibb.co/fQTh5e/Egg.png)
 
 ![](https://image.ibb.co/eWgfrK/Egg_Upgrade.png)
+
+If instead both eggs vanish, the upgrade failed and the materials were destroyed.
+Your stat item upgrades to +3 in the starter area.
+As for the other shop items, the moon key
