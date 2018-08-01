@@ -41,4 +41,12 @@ Once your stat item is +5 and you have hit level 80, it's time to tier up.
 
 ![](https://image.ibb.co/dobMWK/T1_Boss_Entry.png)
 
-Look for the 
+![](https://image.ibb.co/k1Ftdz/T1_Potions.png)
+
+This boss in this cave has three drops. There are two potions, a blue one and an orange one. If you click your class in the top left corner you can see the descriptions of the normal type and the mutant type.
+
+![](https://image.ibb.co/bF98BK/Class_Desc.png)
+
+If you want the normal type, drink the blue potion. If you want the mutant variant of your class, drink the orange potion.
+
+The last drop from the tier boss is a weapon that looks like a gemstone. While it isn't required that you farm this drop, it helps a reasonable amount in farming and you will require all 6 weapons to craft a better one later anyways.
