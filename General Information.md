@@ -15,3 +15,4 @@ how to use bags
 phase bosses always drop tier ups and weapon gems
 tablets are always hp item upgrades
 elites always drop chests
+pet abilities and types
