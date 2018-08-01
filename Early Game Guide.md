@@ -33,13 +33,15 @@ For now, once you have your stat item at +3 and you have a moon key with any kin
 
 Once in the new region, we will farm our stat item up to +5 the same way we did before.
 
-![](https://preview.ibb.co/dfpmyz/Ship_Graveyard.png)
-
 This region and the next two all have the same egg drops, so you can farm in any of them. The higher regions have harder mobs but also higher droprates, and if there are a lot of new players around, regions may become cramped.
+
+![](https://preview.ibb.co/dfpmyz/Ship_Graveyard.png)
 
 Once your stat item is +5 and you have hit level 80, it's time to tier up.
 
 ![](https://image.ibb.co/dobMWK/T1_Boss_Entry.png)
+
+![](https://image.ibb.co/hrMMWK/T1_Boss.png)
 
 ![](https://image.ibb.co/k1Ftdz/T1_Potions.png)
 
@@ -50,3 +52,6 @@ This boss in this cave has three drops. There are two potions, a blue one and an
 If you want the normal type, drink the blue potion. If you want the mutant variant of your class, drink the orange potion.
 
 The last drop from the tier boss is a weapon that looks like a gemstone. While it isn't required that you farm this drop, it helps a reasonable amount in farming and you will require all 6 weapons to craft a better one later anyways.
+
+![](https://image.ibb.co/hUj8Tz/Weapons.png)
+
