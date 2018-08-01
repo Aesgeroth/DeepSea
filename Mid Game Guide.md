@@ -6,4 +6,4 @@ The next region in line is the undead area, just to the right of town one. The u
 
 At this point, if you happen to have 3k allstats (Base + Bonus stats) you can aim to tier by killing the voidwalker phase boss. He is located on the west edge of the undead region. He also drops a gemstone weapon, which you will later need.
 
-![](https://image.ibb.co/fUL4ke/Undead_Egg.png)
+![]()
