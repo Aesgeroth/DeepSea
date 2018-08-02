@@ -64,10 +64,24 @@ With our new weapon and tier out of the way, the next region to farm is to the r
 
 There are two regions availible, the forgotten ones or the earthworms. The earthworms are harder, but haven't struck me as having that much higher of a droprate compared to the prior region. That being said, the region is fairly small and they give a high gold bounty per kill, so the earthworms also make a good farming spot for players strong enough to do so.
 
+Farm your stat item to +8 in one of these two regions.
+
 ![](https://image.ibb.co/hnBuke/Sea_Anemone_Area.png)
 
 ![](https://preview.ibb.co/iyX5dz/Earthworms.png)
 
 Killing earthworms also has a chance to unlock the frog region for 10 seconds, which is where you will find your next hp upgrade (from little frog mobs) as well as the 100k tier up and 100k gemstone weapon. Everything in this region is quite strong, so it isn't really worth going to unless you're specifically getting those items.
 
+The entrance to the frog area is the southern edge of the earthworm region (there will be explosions for the 10 seconds the region is unlocked).
+
 ![](https://preview.ibb.co/kfOBJz/Frogs.png)
+
+After we hit our 100k tier up and weapon, there isn't much else to do but farm to 150k (Base + Bonus) stats for our weapon upgrade. At this point we can enter the Labyrinth at the right edge of the forgotten ones region. 
+
+![](https://preview.ibb.co/iWYiWK/Labyrinth.png)
+
+There are 9 rooms in the Labyrinth, each of which containing 3 exits. Each door leads to another specific room, but for right now we just want to cross the region, not farm it. You can hug the edges of each room to avoid drawing aggro from the wisps, or go at a nighttime when they are asleep.
+
+To get through the Labyrinth from the start, we're going to take the top left door, then top right, bottom left, top right, and finally bottom left.
+
+Once we're through, head to the altar on the left and put a gemstone weapon in each of the outer circles. Once that is done, walk into the middle circle with your hero to fuse them all into one. Grab your new weapon and it's back to farming.
