@@ -29,3 +29,5 @@ Only wisps with a number in their name will drop a number box. The wisp and the 
 5 Mermaid
 
 7 Shark
+
+11 Jellyfish
