@@ -10,6 +10,8 @@ commands
 
 ticket uses
 
+lumber shop
+
 math quiz, races
 
 save ur gem weapons
