@@ -18,8 +18,12 @@ Room 8 tr3, tl2, bl7
 
 Room 9 tr6, tl2, blwin
 
+# One Exit Solution (from 1) tl, tr, bl, tr, bl
+
 # Tier Items
 
 3 Turtle
+
 5 Mermaid
+
 7 Shark
