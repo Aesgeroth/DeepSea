@@ -98,13 +98,31 @@ Once we're through, head to the altar on the left and put a gemstone weapon in e
 
 +500k dmg, Phase 4 frog boss (under earthworm region)
 
-Once that is done, walk into the middle circle with your hero to fuse them all into one. Grab your new weapon and it's back to farming.
+Once that is done, walk into the middle circle with your hero to fuse them all into one. Grab your new weapon (since it probably fell on the floor) and it's back to farming.
 
 The wisps in Labyrinth are pretty beefy, so it's probably best to farm up to 200k before you start taking them on. Additionally, this will also let you test out each of the wisp drops as they fall to see if they're one of your tier items (assuming you don't know which you need).
 
+However, before we go hard into wisp farming we're going to farm the awaken tier boss drop so we have all our pieces as wisp boxes drop. This will let us test which drop we need as they fall, so you can tier up as fast as possible. Farming the wisps after that point is much easier. The awaken tier boss is north of the town just after Labyrinth, and you will probably have to run back to fountain a few times during the fight to heal up.
+
+![](https://image.ibb.co/jMGH8z/Awaken_Tier_Boss.png)
+
+This guy drops a tier item as well as a hp item, but all we're going to dig for right now is the tier item. If you also manage to get the other, great, otherwise we'll come back after tiering and this is considerably easier.
+
+![](https://image.ibb.co/mFhqTz/Awaken_Tier_Item.png)
+
+Once we have the pipe drop, it's time to head back to the Labyrinth and farm wisps until we have the box drop # we need to tier up.
+
 Killing a wisp in one room makes it respawn immediately in a random room inside the Labyrinth. The wisps can also respawn as numbered wisps instead of the basic black ones. These numbered wisps can drop awaken tier pieces, with a different number drop required depending on your class. For example, sharks (and whales) use the #7 wisp box drop. 
 
-All wisps can drop eggs, which upgrades your stat item to +5. Don't worry too much about your stat item here yet, they will be much easier to farm after we get our final tier.
+![](https://preview.ibb.co/jCr61K/Wisp_Drops.png)
+
+All wisps can drop eggs, which upgrades your stat item to +5. Don't worry too much about your stat item here yet, they will be much easier to farm after we get our final tier. For a list of which classes use which wisp drops, see the Labyrinth thread on the guide main page.
+
+After we have our wisp drop, it's time to tier up for the last time. At 200k you can use the 4th portal button in "hg" town to jump straight to the last town. Then as long as we have the pipe, wisp drop, and fused weapon we should be good to go. Walk into the awakening circle to the right and enjoy your new form. Remember to pick up your weapon from the floor after.
+
+![](https://preview.ibb.co/g5pFve/Awaken_Spot.png)
+
+With this, you've graduated from midgame. Welcome to lategame.
 
 # Note
 I will also have a separate topic covering the Labyrinth in more detail
