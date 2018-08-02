@@ -50,3 +50,5 @@ dragon palace aquarium
 town 1 portal menu
 
 everything post labyrinth
+
+divine shield, attackspeed, magic resist, max hp, hp regen, mana regen, max mana, crit, immolate, blink
