@@ -17,3 +17,13 @@ tablets are always hp item upgrades
 elites always drop chests
 pet abilities and types
 fakeplayers
+gold cap amounts
+
+color of infernal names and drops
+
+nucleus is red shard
+burning stone is pheonix egg
+
+3 areas before tier1 is same drop
+
+dragon palace aquarium
