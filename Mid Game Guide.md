@@ -60,7 +60,7 @@ With that out of the way, we need to farm up to 40k stats (Base + Bonus) for our
 
 As before, be sure to save your old gemstone weapon for later crafting.
 
-With our new weapon and tier out of the way, the next region to farm is to the right of town 3. You can also teleport to town 3 using the portal from "hg" town, it's the third one from the top in the menu.
+With our new weapon and tier out of the way, the next region to farm is to the right of town 4. You can also teleport to town 4 using the portal from "hg" town, it's the third one from the top in the menu.
 
 There are two regions availible, the forgotten ones or the earthworms. The earthworms are harder, but haven't struck me as having that much higher of a droprate compared to the prior region. That being said, the region is fairly small and they give a high gold bounty per kill, so the earthworms also make a good farming spot for players strong enough to do so.
 
@@ -84,4 +84,23 @@ There are 9 rooms in the Labyrinth, each of which containing 3 exits. Each door 
 
 To get through the Labyrinth from the start, we're going to take the top left door, then top right, bottom left, top right, and finally bottom left.
 
-Once we're through, head to the altar on the left and put a gemstone weapon in each of the outer circles. Once that is done, walk into the middle circle with your hero to fuse them all into one. Grab your new weapon and it's back to farming.
+Once we're through, head to the altar on the left and put a gemstone weapon in each of the outer circles. You should have 6 gemstone weapons total, and just in case you missed any, here's a list to go back and farm them.
+
++300 dmg, level 80 tier boss in cave to the left of town 1
++1500 dmg, lvl 200 tier boss at the end of dragon palace (frost zone)
++5000 dmg, Phase 1 wraith boss at the left edge of undead area (just outside town 1)
++25k dmg, Phase 2 lizard boss in zombie region (to the left of town 3)
+150k dmg, Phase 3 ghost boss in banshee region (above town 4)
+500k dmg, Phase 4 frog boss (under earthworm region)
+
+Once that is done, walk into the middle circle with your hero to fuse them all into one. Grab your new weapon and it's back to farming.
+
+The wisps in Labyrinth are pretty beefy, so it's probably best to farm up to 200k before you start taking them on. Additionally, this will also let you test out each of the wisp drops as they fall to see if they're one of your tier items (assuming you don't know which you need).
+
+Killing a wisp in one room makes it respawn immediately in a random room inside the Labyrinth. The wisps can also respawn as numbered wisps instead of the basic black ones. These numbered wisps can drop awaken tier pieces, with a different number drop required depending on your class. For example, sharks (and whales) use the #7 wisp box drop. 
+
+All wisps can drop eggs, which upgrades your stat item to +5. Don't worry too much about your stat item here yet, they will be much easier to farm after we get our final tier.
+
+# Note
+I will also have a separate topic covering the Labyrinth in more detail
+
