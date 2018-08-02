@@ -1,4 +1,4 @@
-# Room Solutions (Top right = tr, top left = tl, bottom left = bl)
+# Room Doors (Top right = tr, top left = tl, bottom left = bl)
 
 Room 1: tr6, tl5, bl2
 
