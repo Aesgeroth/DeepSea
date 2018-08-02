@@ -88,15 +88,15 @@ Once we're through, head to the altar on the left and put a gemstone weapon in e
 
 +300 dmg, level 80 tier boss in cave to the left of town 1
 
-1500 dmg, lvl 200 tier boss at the end of dragon palace (frost zone)
++1500 dmg, lvl 200 tier boss at the end of dragon palace (frost zone)
 
 +5000 dmg, Phase 1 wraith boss at the left edge of undead area (just outside town 1)
 
 +25k dmg, Phase 2 lizard boss in zombie region (to the left of town 3)
 
-150k dmg, Phase 3 ghost boss in banshee region (above town 4)
++150k dmg, Phase 3 ghost boss in banshee region (above town 4)
 
-500k dmg, Phase 4 frog boss (under earthworm region)
++500k dmg, Phase 4 frog boss (under earthworm region)
 
 Once that is done, walk into the middle circle with your hero to fuse them all into one. Grab your new weapon and it's back to farming.
 
