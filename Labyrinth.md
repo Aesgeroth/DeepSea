@@ -22,6 +22,8 @@ Room 9 tr6, tl2, blwin
 
 # Tier Items
 
+Only wisps with a number in their name will drop a number box. The wisp and the drop numbers will match, only a 7 wisp will drop a 7 box. Each box will tier both the normal and the mutant variant of that class.
+
 3 Turtle
 
 5 Mermaid
