@@ -22,7 +22,7 @@ Room 9 tr6, tl2, blwin
 
 # Tier Items
 
-Only wisps with a number in their name will drop a number box. The wisp and the drop numbers will match, only a 7 wisp will drop a 7 box. Each box will tier both the normal and the mutant variant of that class.
+Only wisps with a number in their name will drop a number box. The wisp and the drop numbers will match, only a 7 wisp will drop a 7 box. Each box can be used to tier the normal or the mutant variant of that class. For example, 7 tiers both shark and whale (both are shark starter class).
 
 3 Turtle
 
