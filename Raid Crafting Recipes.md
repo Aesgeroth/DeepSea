@@ -9,19 +9,21 @@ Raid 2: Burning Rock (Orange Egg) , Origin of the Nucleus (Red Stone)
 Raid 3: Phoenix Feather, Eternal Flame
 
 
-# Infos:
+# Info:
 
 Craft Ring at Wood Trader for 50 Lumber (with materials as listed below)
  
-Select Stat for Ring at Wood Trader for 30 Lumber 
+Select Stat for Ring at Wood Trader for 30 Lumber (with materials as listed below)
 
-Upgrade Ring at Wood Trader (N) 
+Upgrade Ring at Wood Trader (N) (with materials as listed below)
+
 
 # Weapon Crafting (Class Weapons):
 
 Heart of Infernal (Red Orb) + Heart of Infernal (Yellow Orb) + Heart of Infernal (Green Orb) + Abyssal Medal (5.000.000 Health/Mana) + Abyssal Treasure Weapon +7 = Incomplete Deep Sea Essence [Special Weapon] [Automatic combination when you walk to the Fountain in 2nd town] (Increased Damage by 7M, Increased Health/Mana by 7M)
 
 Incomplete Deep Sea Essence + Infernal Stone (Blue) 5x = The Essence of the Deep Sea [Special Weapon] [Automatic combination when you click on the stone with 5 stacked Infernal Stone (Blue) ] (Increased Damage by 10M, Increased Health/Mana by 10M + Ability Improvements)
+
 
 # Basic Ring & Specialties:
 
@@ -36,6 +38,7 @@ Ring of Abyss + Heart of Green Infernal 2x + Origin of Nucleus 1x = Ring of Abys
 Ring of the Abyss + Heart of the Red Infernal 1x + Heart of the Green Infernal 1x + Origin of Nucleus 1x = Ring of the Abyss [Thoughness] (Health/Mana increased by 3%)
 
 Ring of Abyss + Heart of Red Infernal 1x + Heart of Yellow Infernal 1x + Origin of Nucleus 1x = Ring of Abyss [Damage] (Damage increased by 3%)
+
 
 # Ring Upgrades After Specialization:
 
