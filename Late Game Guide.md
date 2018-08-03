@@ -54,7 +54,7 @@ The hellhounds here will have two drops to begin with, high level chests and blu
 
 ![](https://image.ibb.co/gfCJYz/Blue_Egg_Inventory.png)
 
-When we have 5 of these blue eggs, we can put it on our hero to upgrade our +5 wisp stat item into a staff. If it doesn't immediately combine you might need to -create, or drop it and pick it up again.
+When we have 5 of these blue eggs, we can put it on our hero to upgrade our +5 wisp stat item into a staff. If it doesn't immediately combine you might need to -create, or drop it and pick it up again. Once you've successfully upgraded your stat item into the staff, the blue eggs will stop dropping.
 
 ![](https://image.ibb.co/enY30e/Staff.png)
 
