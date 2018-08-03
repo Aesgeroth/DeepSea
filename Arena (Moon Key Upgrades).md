@@ -10,7 +10,7 @@ The hub world for arena fights can be accessed in the first town through the por
 
 ![](https://preview.ibb.co/gH8rgK/Arenas.png)
 
-Each portal is labelled with the allstat requirement (Base + Bonus) needed to enter the boss chamber. If you can enter the room, you're good to go.
+Each portal is labelled with the allstat requirement (Base + Bonus) needed to enter the boss chamber. If you can enter the room, you're probably good to go.
 
 # Note: Arena levels must be completed in order; To upgrade your moon key to level 3, you must first successfully upgrade the key using drops from challenge level 2 etc.
 
