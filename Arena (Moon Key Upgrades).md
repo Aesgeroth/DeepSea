@@ -34,11 +34,20 @@ Blue/Teal Rune - You select 1 line to reroll the number value (for example you h
 
 The prices for boss summons are as follows.
 
-1 Blue Ankh for lvl 1
-2 Blue Ankh for lvl 2
-4 Blue Ankh for lvl 3
-7 Blue Ankh for lvl 4
-11 Blue Ankh for lvl 5
-16 Blue Ankh for lvl 6
-22 Blue Ankh for lvl 7
-3 Yellow Ankh for lvl 8
+1 Blue Ankh for level 1
+
+2 Blue Ankh for level 2
+
+4 Blue Ankh for level 3
+
+7 Blue Ankh for level 4
+
+11 Blue Ankh for level 5
+
+16 Blue Ankh for level 6
+
+22 Blue Ankh for level 7
+
+3 Yellow Ankh for level 8
+
+5 Yellow Ankh for level 9
