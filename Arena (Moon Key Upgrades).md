@@ -24,7 +24,7 @@ These runes can be consumed by your hero while wearing your moon key to upgrade 
 
 The values assigned to your moon key scale with the level of challenge you complete, but each level has its own range which the stat chooses from. For example, a level 2 moon key might get between 5000-10000 str, while a level 3 moon key might get between 8000-13000 str.
 
-Higher arenas are slightly more complex, in that they have three different types of runes the boss can drop. Arenas 6-9 have these different runes.
+# Higher arenas are slightly more complex, in that they have three different types of runes the boss can drop. Arenas 6-9 have these different runes.
 
 Black Rune - Complete random reroll of all lines of stats
 
