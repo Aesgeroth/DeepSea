@@ -17,7 +17,7 @@ Select Stat for Ring at Wood Trader for 30 Lumber
 
 Upgrade Ring at Wood Trader (N) 
 
-# Weapon Craftings:
+# Weapon Crafting (Class Weapons):
 
 Heart of Infernal (Red Orb) + Heart of Infernal (Yellow Orb) + Heart of Infernal (Green Orb) + Abyssal Medal (5.000.000 Health/Mana) + Abyssal Treasure Weapon +7 = Incomplete Deep Sea Essence [Special Weapon] [Automatic combination when you walk to the Fountain in 2nd town] (Increased Damage by 7M, Increased Health/Mana by 7M)
 
