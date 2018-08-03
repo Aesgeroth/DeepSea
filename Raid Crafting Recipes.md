@@ -1,4 +1,4 @@
-Hell Raids Dungeon (Infos not complete finish yet)
+Hell Raids Dungeon (Info not fully complete yet)
 
 # Drops:
 
@@ -9,7 +9,7 @@ Raid 3: Phoenix Feather, Eternal Flame
 
 # Infos:
 
- Craft Ring at Wood Trader for 50 Lumber 
+ Craft Ring at Wood Trader for 50 Lumber (with materials as listed below)
  Select Stat for Ring at Wood Trader for 30 Lumber 
  Upgrade Ring at Wood Trader (N) 
 
