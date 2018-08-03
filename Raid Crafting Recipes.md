@@ -1,4 +1,4 @@
-Hell Raids Dungeon (Info not fully complete yet)
+# Hell Raids Dungeon (Info not fully complete yet)
 
 # Drops:
 
@@ -23,7 +23,7 @@ Heart of Infernal (Red Orb) + Heart of Infernal (Yellow Orb) + Heart of Infernal
 
 Incomplete Deep Sea Essence + Infernal Stone (Blue) 5x = The Essence of the Deep Sea [Special Weapon] [Automatic combination when you click on the stone with 5 stacked Infernal Stone (Blue) ] (Increased Damage by 10M, Increased Health/Mana by 10M + Ability Improvements)
 
-# Basic Ring & Specialties
+# Basic Ring & Specialties:
 
 Burning Rock + Origin of the Nucleus 3x = Ring of Abyss
 
@@ -37,7 +37,7 @@ Ring of the Abyss + Heart of the Red Infernal 1x + Heart of the Green Infernal 1
 
 Ring of Abyss + Heart of Red Infernal 1x + Heart of Yellow Infernal 1x + Origin of Nucleus 1x = Ring of Abyss [Damage] (Damage increased by 3%)
 
-# Ring Upgrades After Specialization
+# Ring Upgrades After Specialization:
 
 Ring of Abyss 3% [Str or Agi or Int or Damage or Health] + Origin of Nucleus 1x = Ring of Abyss 4% [Str or Agi or Int or Damage or Health]
 
