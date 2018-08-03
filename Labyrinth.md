@@ -32,6 +32,6 @@ Only wisps with a number in their name will drop a number box. The wisp and the 
 
 7 Shark/Whale
 
-9 Crab/Lobster
+9 Crab/Lobster(Scorpion)
 
 11 Jellyfish/Squid
