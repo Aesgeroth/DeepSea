@@ -49,3 +49,33 @@ Now that we've used the warp book, we are able to take the portal from "hg" town
 ![](https://preview.ibb.co/g4mH8z/Portal_Menu.png)
 
 The hellhounds here will have two drops to begin with, high level chests and blue eggs. The high level chests drop gold, accessories and red eggs, but until we've finished with our blue eggs we won't be able to use the red ones.
+
+![](https://image.ibb.co/iBaSRK/Blue_Egg.png)
+
+![](https://image.ibb.co/gfCJYz/Blue_Egg_Inventory.png)
+
+When we have 5 of these blue eggs, we can put it on our hero to upgrade our +5 wisp stat item into a staff. If it doesn't immediately combine you might need to -create, or drop it and pick it up again.
+
+![](https://image.ibb.co/enY30e/Staff.png)
+
+Now that we have our stat item updated to the region, we can use the red eggs we're finding off pirate/hellhound kills to tier it up. It goes to +20.
+
+![](https://image.ibb.co/fojAfe/Red_Egg.png)
+
+![](https://image.ibb.co/eWXwLe/Red_Egg_Inventory.png)
+
+Since this item upgrades so much, the last 5 upgrades in particular are going to be painful. The general rule of thumb is to try to stockpile as much lumber as you can for the ending here, with it being generally accepted to buy out the last two upgrades entirely. You don't have to, but it will save a lot of farming for that perfect egg to hit 19.
+
+Back at "hg" town, the 2nd last option in the portal will take you to the ticket shop. In here is also the Wood Trader, who offers an item for 200 lumber which will succeed on your staff upgrade 100% of the time.
+
+![](https://image.ibb.co/cTiKMK/Portal_Menu.png)
+
+![](https://image.ibb.co/iV1Ffe/Wood_Trader.png)
+
+The top button here is the one to get a 100% success upgrade, it will spawn in the middle of the shop.
+
+After your stat item has hit +20, it's time to finish up any base stat farming you haven't done yet. Visit the Sea of Harmony above the last town and get all your stats to 250k if they aren't already, it's about as much of a power jump as getting an item upgrade.
+
+Congratulations, you've reached the raiding stage! If you've managed to farm a red accessory drop off hellhounds things will be a bit easier starting out, but with a strong 3 man team having a blue accessory is also fine. If you're still wearing a green tier accessory, maybe consider farming a few chests before you move on to the raids.
+
+Each raid requires 3 members, and can't be done with more or less.
