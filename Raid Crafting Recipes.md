@@ -3,15 +3,19 @@ Hell Raids Dungeon (Info not fully complete yet)
 # Drops:
 
 Raid 1: Heart of Infernal (Red Orb, Yellow Orb, Green Orb) , Infernal Stone (Blue)
+
 Raid 2: Burning Rock (Orange Egg) , Origin of the Nucleus (Red Stone)
+
 Raid 3: Phoenix Feather, Eternal Flame
 
 
 # Infos:
 
- Craft Ring at Wood Trader for 50 Lumber (with materials as listed below)
- Select Stat for Ring at Wood Trader for 30 Lumber 
- Upgrade Ring at Wood Trader (N) 
+Craft Ring at Wood Trader for 50 Lumber (with materials as listed below)
+ 
+Select Stat for Ring at Wood Trader for 30 Lumber 
+
+Upgrade Ring at Wood Trader (N) 
 
 # Weapon Craftings:
 
@@ -19,7 +23,7 @@ Heart of Infernal (Red Orb) + Heart of Infernal (Yellow Orb) + Heart of Infernal
 
 Incomplete Deep Sea Essence + Infernal Stone (Blue) 5x = The Essence of the Deep Sea [Special Weapon] [Automatic combination when you click on the stone with 5 stacked Infernal Stone (Blue) ] (Increased Damage by 10M, Increased Health/Mana by 10M + Ability Improvements)
 
-# Ring Upgrades
+# Basic Ring & Specialties
 
 Burning Rock + Origin of the Nucleus 3x = Ring of Abyss
 
@@ -33,6 +37,7 @@ Ring of the Abyss + Heart of the Red Infernal 1x + Heart of the Green Infernal 1
 
 Ring of Abyss + Heart of Red Infernal 1x + Heart of Yellow Infernal 1x + Origin of Nucleus 1x = Ring of Abyss [Damage] (Damage increased by 3%)
 
+# Ring Upgrades After Specialization
 
 Ring of Abyss 3% [Str or Agi or Int or Damage or Health] + Origin of Nucleus 1x = Ring of Abyss 4% [Str or Agi or Int or Damage or Health]
 
