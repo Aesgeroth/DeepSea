@@ -130,13 +130,15 @@ Congratulations, we now have a starter Ring to work on and help fill back up our
 
 ![](https://image.ibb.co/cBWjOz/Ring.png)
 
-Next we start upgrading our ring, the first of which needs a single Nucleus drop from Raid 2. With our material found it's time to head back to the Wood Trader.
+Next we choose what kind of ring we're making, with recipes for str/agi/int/dmg or hp&mana listed on the raid recipes thread.
+
+With our materials gathered for the desired ring, it's time to re-visit the Wood Trader.
 
 Once again we want the third option from the top for his ring related recipes.
 
 ![](https://preview.ibb.co/iZsuqe/Ring_Craft2.png)
 
-Next we want the 30 lumber option to upgrade our ring from 3% to 4%.
+Next we want the 30 lumber option to specialize our ring.
 
-And that's it, keep upgrading your ring with the recipes on the raid recipes thread in the same manner until it's finished.
+And that's it, keep upgrading your ring with the recipes on the raid recipes thread in the same manner until it's finished, using the third option in the Wood Trader's Ring menu instead of the 50 or 30 lumber options.
 
