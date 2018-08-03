@@ -98,6 +98,17 @@ Some classes have effects that will change the color of the units they attack, a
 
 Our first craft from raid1 is going to be our class weapon. We need a yellow, green and red infernal heart as drops. These will fuse with our +7 pirate weapon as well as our hp medallion item at the fountain in town. This craft means we are left with four inventory items total, our new class weapon, our stat item, our moon key and an accessory.
 
-The next order of business is to upgrade our class weapon into its full form. For that we need 5 Blue Infernal Stones, also from raid1.
+The next order of business is to upgrade our class weapon into its full form. For that we need 5 Blue Infernal Stones, also from raid1. Offhand I can't remember if you need to pick up the stack of 5 with your hero, use -create or take it to the fountain at town, but it's one of those three to fuse.
+
+Each class has a different special effect on their weapon, I don't know what most of them do. I might see about compiling a list in a raid crafting thread if enough people can tell me about theirs.
 
 ![](https://image.ibb.co/jBfEqe/Class_Weapon_Finished.png)
+
+With our class weapon crafted and upgraded, we are now ready to progress to raid2. This is a much simpler raid, and just consists of a single boss with immolate that splits into more units (also with immolate) on death. Those splits also create two more units when they die, but other than that there are no spells or mechanics to be concerned about.
+
+Raid2 has two different drops, including the Burning Rock which looks like a pheonix egg, and the Origin of the Nucleus which looks like a floating crystal.
+
+![](https://image.ibb.co/fmQB3z/Raid2_Drop2.png)
+
+To create your first Ring of the Abyss, you will require an Origin of the Nucleus, and 2 Infernal Hearts (from raid 1) which vary depending on what type of ring you want to make. The various recipes will be listed on a separate thread.
+
