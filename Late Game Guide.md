@@ -78,6 +78,8 @@ After your stat item has hit +20, it's time to finish up any base stat farming y
 
 Congratulations, you've reached the raiding stage! If you've managed to farm a red accessory drop off hellhounds things will be a bit easier starting out, but with a strong 3 man team having a blue accessory is also fine. If you're still wearing a green tier accessory, maybe consider farming a few chests before you move on to the raids.
 
+# Hell Raids
+
 Each raid requires at least 3 members to begin, and each member must "check in" on the entrance pad for the fight to start.
 
 ![](https://preview.ibb.co/ezEb1K/Raid_1_2.png)
@@ -142,3 +144,4 @@ Next we want the 30 lumber option to specialize our ring.
 
 And that's it, keep upgrading your ring with the recipes on the raid recipes thread in the same manner until it's finished, using the third option in the Wood Trader's Ring menu instead of the 50 or 30 lumber options.
 
+Upgrade your ring to 8%.
