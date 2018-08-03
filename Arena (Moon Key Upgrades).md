@@ -1,6 +1,6 @@
 The moon key is an item you have from the very beginning of the game, but often isn't an item that you end up upgrading for long periods of time. Unlike the rest of your gear, it only upgrades through arena challenges. These require both a minimum stat threshold to fight as well as summoning materials which are expended to call a boss.
 
-The first moon key can be bought and upgraded (the green crystal item) once at any red crystal shop.
+The first moon key can be bought and upgraded (with the green crystal item) once at any red crystal shop.
 
 ![](https://image.ibb.co/muEYBK/First_Shop.png)
 
