@@ -78,4 +78,4 @@ After your stat item has hit +20, it's time to finish up any base stat farming y
 
 Congratulations, you've reached the raiding stage! If you've managed to farm a red accessory drop off hellhounds things will be a bit easier starting out, but with a strong 3 man team having a blue accessory is also fine. If you're still wearing a green tier accessory, maybe consider farming a few chests before you move on to the raids.
 
-Each raid requires 3 members, and can't be done with more or less.
+Each raid requires at least 3 members.
