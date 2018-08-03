@@ -1,4 +1,4 @@
-# Hell Raids Dungeon (Info not fully complete yet)
+# Hell Dungeon Raids (Information not fully complete yet)
 
 # Drops:
 
