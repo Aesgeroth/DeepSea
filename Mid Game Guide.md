@@ -100,6 +100,8 @@ Once we're through, head to the altar on the left and put a gemstone weapon in e
 
 Once that is done, walk into the middle circle with your hero to fuse them all into one. Grab your new weapon (since it probably fell on the floor) and it's back to farming.
 
+![](https://preview.ibb.co/iExKqe/Gem_Fuse.png)
+
 The wisps in Labyrinth are pretty beefy, so it's probably best to farm up to 200k before you start taking them on. Additionally, this will also let you test out each of the wisp drops as they fall to see if they're one of your tier items (assuming you don't know which you need).
 
 However, before we go hard into wisp farming we're going to farm the awaken tier boss drop so we have all our pieces as wisp boxes drop. This will let us test which drop we need as they fall, so you can tier up as fast as possible. Farming the wisps after that point is much easier. The awaken tier boss is north of the town just after Labyrinth, and you will probably have to run back to fountain a few times during the fight to heal up.
