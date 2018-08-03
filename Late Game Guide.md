@@ -78,4 +78,26 @@ After your stat item has hit +20, it's time to finish up any base stat farming y
 
 Congratulations, you've reached the raiding stage! If you've managed to farm a red accessory drop off hellhounds things will be a bit easier starting out, but with a strong 3 man team having a blue accessory is also fine. If you're still wearing a green tier accessory, maybe consider farming a few chests before you move on to the raids.
 
-Each raid requires at least 3 members.
+Each raid requires at least 3 members to begin, and each member must "check in" on the entrance pad for the fight to start.
+
+![](https://preview.ibb.co/ezEb1K/Raid_1_2.png)
+
+![](https://preview.ibb.co/dn5Nae/Raid_2_3.png)
+
+The first 3 raids are found under the hellhounds, and are ordered to follow top downwards. The first raid contains an infernal of random color (three choices). All three have immolate, and will drop a normal and boss chest on death. Each also has a chance to drop a Blue Infernal Stone, as well as a Heart of Infernal in their color.
+
+![](https://image.ibb.co/nkk8gK/Infernal_Drops.png)
+
+The Red Infernal has no special abilities that I know of apart from the generic immolate effect. He is the easiest fight of the three and can drop the Red Infernal Heart as his unique drop.
+
+The Green Infernal has immolate and also calls down small infernals from the sky. A second or two after impact, they deal substantial damage to anyone near the impact, you should be able to run out of the impact zone though before the damage triggers. The Green Infernal Heart is his unique drop.
+
+The Yellow Infernal is the hardest of the three bosses, and has two spells not counting immolate. He throws stormbolts at players for a single target dmg and stun effect, and casts pillar of fire, leaving burning ground which does massive amounts of damage to players standing on it.
+
+Some classes have effects that will change the color of the units they attack, and I personally found it hard to tell sometimes which infernal I was fighting or which drop was what. To that end, it was pointed out to me that the names of both the infernals and their drops are color coded.
+
+Our first craft from raid1 is going to be our class weapon. We need a yellow, green and red infernal heart as drops. These will fuse with our +7 pirate weapon as well as our hp medallion item at the fountain in town. This craft means we are left with four inventory items total, our new class weapon, our stat item, our moon key and an accessory.
+
+The next order of business is to upgrade our class weapon into its full form. For that we need 5 Blue Infernal Stones, also from raid1.
+
+![](https://image.ibb.co/jBfEqe/Class_Weapon_Finished.png)
