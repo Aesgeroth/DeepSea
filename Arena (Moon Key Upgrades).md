@@ -16,8 +16,29 @@ Each portal is labelled with the allstat requirement (Base + Bonus) needed to en
 
 ![](https://preview.ibb.co/hB8LwK/Arena_Summon.png)
 
-Inside each boss chamber is a red symbol on the floor where you summon the boss. Walk a unit with the appropriate amount of Ankhs onto the red symbol, where they will be consumed and a boss will be summoned. Once defeated, the boss will drop a number of runes on the floor.
+Inside each boss chamber is a red symbol on the floor where you summon the boss. Walk a unit (bag or hero) with the appropriate amount of Ankhs onto the red symbol, where they will be consumed and a boss will be summoned. Once defeated, the boss will drop a number of runes on the floor.
 
 ![](https://preview.ibb.co/fQRjOz/Arena_Runes.png)
 
-These runes can be consumed by your hero while wearing your moon key to upgrade the item one tier.
+These runes can be consumed by your hero while wearing your moon key to upgrade the item one tier. The upgrade chosen will be picked randomly from +str/agi/int/allstats/dmg or +hp. You can consume another rune of the same tier to try for a different modifier.
+
+The values assigned to your moon key scale with the level of challenge you complete, but each level has its own range which the stat chooses from. For example, a level 2 moon key might get between 5000-10000 str, while a level 3 moon key might get between 8000-13000 str.
+
+Higher arenas are slightly more complex, in that they have three different types of runes the boss can drop. Arenas 6-9 have these different runes.
+
+Black Rune - Complete random reroll of all lines of stats
+Yellow Rune - Random reroll of a single line chosen by the player, for example to reroll "str" into "int"
+Blue/Teal Rune - You select 1 line to reroll the number value (for example you have only 11900 strength, but max is 20000 then you can try to reroll this to a higher value while still being of the strength category)
+
+# Note: To upgrade your moon key in stages 6-9, you must first consume a black rune. Having a level 6 moon key but eating a level 7 yellow or teal rune will not upgrade your moon key. After they have been upgraded with a black rune you may attempt to reroll or modify it with any of the 3 rune types.
+
+The prices for boss summons are as follows.
+
+1 Blue Ankh for lvl 1
+2 Blue Ankh for lvl 2
+4 Blue Ankh for lvl 3
+7 Blue Ankh for lvl 4
+11 Blue Ankh for lvl 5
+16 Blue Ankh for lvl 6
+22 Blue Ankh for lvl 7
+3 Yellow Ankh for lvl 8
