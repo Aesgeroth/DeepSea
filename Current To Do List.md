@@ -42,3 +42,5 @@ divine shield, attackspeed, magic resist, max hp, hp regen, mana regen, max mana
 Raid2 pheonix egg screenshot
 
 Raid1 Blue Heart screenshot
+
+AoE pet cd around 40 sec
