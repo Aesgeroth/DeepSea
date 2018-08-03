@@ -40,11 +40,11 @@ As for the pirate boss, he also drops the same weapon upgrades as his crew, but 
 
 ![](https://image.ibb.co/cNnM1K/Pirate_Boss.png)
 
-After that's finished, we can use the red tomes he dropped to go to the next region. Careful you pick up all your items before you use it, since your hero will be teleported away.
+After that's finished, we can use the red tomes he dropped to go to the next region. Be careful to pick up all your items before you use it, since your hero will be teleported away.
 
 ![](https://image.ibb.co/i0auoz/Pirate_Warp_Book.png)
 
-Now that we've used the warp book, we are able to take the portal from "hg" town straight to hell region. It's the 5th option from the top in the portal menu (red text).
+Now that we've used the warp book, we are able to take the portal from "hg" town straight to hell region. It's the 5th option from the top in the portal menu (red text). We can also now use the "hgh" command to teleport to hell (you need to use a pirate book every game to unlock this).
 
 ![](https://preview.ibb.co/g4mH8z/Portal_Menu.png)
 
