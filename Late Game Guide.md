@@ -86,6 +86,8 @@ Each raid requires at least 3 members to begin, and each member must "check in" 
 
 The first 3 raids are found under the hellhounds, and are ordered to follow top downwards. The first raid contains an infernal of random color (three choices). All three have immolate, and will drop a normal and boss chest on death. Each also has a chance to drop a Blue Infernal Stone, as well as a Heart of Infernal in their color.
 
+![](https://image.ibb.co/e5B3Fe/Infernal_Raid1.png)
+
 ![](https://image.ibb.co/nkk8gK/Infernal_Drops.png)
 
 The Red Infernal has no special abilities that I know of apart from the generic immolate effect. He is the easiest fight of the three and can drop the Red Infernal Heart as his unique drop.
