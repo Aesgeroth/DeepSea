@@ -37,6 +37,8 @@ gold cap amounts
 
 3 areas before tier1 is same drop
 
-dragon palace aquarium
-
 divine shield, attackspeed, magic resist, max hp, hp regen, mana regen, max mana, crit, immolate, blink, bash
+
+Raid2 pheonix egg screenshot
+
+Raid1 Blue Heart screenshot
