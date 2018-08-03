@@ -112,3 +112,19 @@ Raid2 has two different drops, including the Burning Rock which looks like a phe
 
 To create your first Ring of the Abyss, you will require an Origin of the Nucleus, and 2 Infernal Hearts (from raid 1) which vary depending on what type of ring you want to make. The various recipes will be listed on a separate thread.
 
+Once you have all the pieces of your ring in hand, head to the Wood Trader in the Ticket Shop. Use the 2nd from the bottom option in the portal menu to get there.
+
+![](https://image.ibb.co/cTiKMK/Portal_Menu.png)
+
+In the Wood Trader's menu, the third button from the top selects the ring related options.
+
+![](https://preview.ibb.co/iZsuqe/Ring_Craft2.png)
+
+Then you want the top option to craft your initial ring for the price of 50 lumber (plus whatever materials you needed).
+
+![](https://preview.ibb.co/gpjUOz/Ring_Craft.png)
+
+Congratulations, we now have a starter Ring to work on and help fill back up our inventory slots.
+
+![](https://image.ibb.co/cBWjOz/Ring.png)
+
