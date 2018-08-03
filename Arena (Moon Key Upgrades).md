@@ -27,7 +27,9 @@ The values assigned to your moon key scale with the level of challenge you compl
 Higher arenas are slightly more complex, in that they have three different types of runes the boss can drop. Arenas 6-9 have these different runes.
 
 Black Rune - Complete random reroll of all lines of stats
+
 Yellow Rune - Random reroll of a single line chosen by the player, for example to reroll "str" into "int"
+
 Blue/Teal Rune - You select 1 line to reroll the number value (for example you have only 11900 strength, but max is 20000 then you can try to reroll this to a higher value while still being of the strength category)
 
 # Note: To upgrade your moon key in stages 6-9, you must first consume a black rune. Having a level 6 moon key but eating a level 7 yellow or teal rune will not upgrade your moon key. After they have been upgraded with a black rune you may attempt to reroll or modify it with any of the 3 rune types.
