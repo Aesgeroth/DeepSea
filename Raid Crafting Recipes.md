@@ -51,3 +51,7 @@ Ring of Abyss 5% [Str or Agi or Int or Damage or Health] + Origin of Nucleus 1x 
 Ring of Abyss 6% [Str or Agi or Int or Damage or Health] + Origin of Nucleus 1x + Heart of Infernal (Red or Yellow or Green) = Ring of Abyss 7% [Str or Agi or Int or Damage or Health]
 
 Ring of Abyss 7% [Str or Agi or Int or Damage or Health] + Origin of Nucleus 1x + Heart of Infernal (Red or Yellow or Green) = Ring of Abyss 8% [Str or Agi or Int or Damage or Health]
+
+Ring of Abyss 8% [Str or Agi or Int or Damage or Health] + Origin of the Nucleus (Red Stone) 2x + Infernal Stone (Blue) 1x + Eternal Flame 1x + 80 Wood = Ring of Abyss 9% [Str or Agi or Int or Damage or Health]
+
+Ring of Abyss 9% [Str or Agi or Int or Damage or Health] + Origin of the Nucleus (Red Stone) 2x + Infernal Stone (Blue) 1x + Eternal Flame 1x + 80 Wood = Ring of Abyss 10% [Str or Agi or Int or Damage or Health]
