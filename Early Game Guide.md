@@ -69,6 +69,10 @@ Once that's done, the next region is the Dragon Palace (frost area) attached to 
 
 ![](https://image.ibb.co/c04arK/Frost_Zone_Eggs.png)
 
+If the normal mobs here become too easy, you can grind the rest of your upgrades or finish leveling in the aquarium. It has harder mobs with a higher droprate, and the region is more compact so they are easier to farm (if you're strong enough).
+
+![](https://preview.ibb.co/f9yFfe/Aquarium.png)
+
 After our stat item is finished, we can start collecting the 3 pieces needed for tiering up at level 200.
 First we need our mainstat item, each of which drop in a different room.
 
