@@ -34,7 +34,7 @@ Blue/Teal Rune - You select 1 line to reroll the number value (for example you h
 
 # Note: To upgrade your moon key in stages 6-9, you must first consume a black rune. Having a level 6 moon key but eating a level 7 yellow or teal rune will not upgrade your moon key. After they have been upgraded with a black rune you may attempt to reroll or modify it with any of the 3 rune types.
 
-# Note: Entering arena level 9 seems to require your hero to have 30 million hp or damage.
+# Note: Entering arena level 9 seems to require your hero to have at least 30 million hp or damage.
 
 The prices for boss summons are as follows.
 
