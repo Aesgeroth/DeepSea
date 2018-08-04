@@ -57,3 +57,8 @@ Pet
 70 for lvl 8
 80 for lvl 9
 150 for lvl 10 (Also requires 300 Contribution, not consumed)
+
+40 sec cd turns blue and heals
+summons mini pheonixs
+
+feathers dont bind on pickup, do on save
