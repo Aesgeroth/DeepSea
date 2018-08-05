@@ -90,6 +90,8 @@ The first 3 raids are found under the hellhounds, and are ordered to follow top 
 
 ![](https://image.ibb.co/e5B3Fe/Infernal_Raid1.png)
 
+![](https://image.ibb.co/jzvUbK/Blue_Stone.png)
+
 ![](https://image.ibb.co/nkk8gK/Infernal_Drops.png)
 
 The Red Infernal has no special abilities that I know of apart from the generic immolate effect. He is the easiest fight of the three and can drop the Red Infernal Heart as his unique drop.
@@ -102,7 +104,7 @@ Some classes have effects that will change the color of the units they attack, a
 
 Our first craft from raid1 is going to be our class weapon. We need a yellow, green and red infernal heart as drops. These will fuse with our +7 pirate weapon as well as our hp medallion item at the fountain in town. This craft means we are left with four inventory items total, our new class weapon, our stat item, our moon key and an accessory.
 
-The next order of business is to upgrade our class weapon into its full form. For that we need 5 Blue Infernal Stones, also from raid1. Offhand I can't remember if you need to pick up the stack of 5 with your hero, use -create or take it to the fountain at town, but it's one of those three to fuse.
+The next order of business is to upgrade our class weapon into its full form. For that we need 5 Blue Infernal Stones, also from raid1. Hold the stack of blue stones on your hero and click them to fuse.
 
 Each class has a different special effect on their weapon, I don't know what most of them do. I might see about compiling a list in a raid crafting thread if enough people can tell me about theirs.
 
