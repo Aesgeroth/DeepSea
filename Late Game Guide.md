@@ -104,13 +104,17 @@ Some classes have effects that will change the color of the units they attack, a
 
 Our first craft from raid1 is going to be our class weapon. We need a yellow, green and red infernal heart as drops. These will fuse with our +7 pirate weapon as well as our hp medallion item at the fountain in town. This craft means we are left with four inventory items total, our new class weapon, our stat item, our moon key and an accessory.
 
+![](https://image.ibb.co/iLQHVe/Turtle_CW1.png)
+
 The next order of business is to upgrade our class weapon into its full form. For that we need 5 Blue Infernal Stones, also from raid1. Hold the stack of blue stones on your hero and click them to fuse.
 
 Each class has a different special effect on their weapon, I don't know what most of them do. I might see about compiling a list in a raid crafting thread if enough people can tell me about theirs.
 
-![](https://image.ibb.co/jBfEqe/Class_Weapon_Finished.png)
+![](https://image.ibb.co/gwmAGK/Turtle_CW2.png)
 
 With our class weapon crafted and upgraded, we are now ready to progress to raid2. This is a much simpler raid, and just consists of a single boss with immolate that splits into more units (also with immolate) on death. Those splits also create two more units when they die, but other than that there are no spells or mechanics to be concerned about.
+
+![](https://image.ibb.co/fZgfiz/Raid2_Boss.png)
 
 Raid2 has two different drops, including the Burning Rock which looks like a pheonix egg, and the Origin of the Nucleus which looks like a floating crystal.
 
@@ -147,3 +151,30 @@ Next we want the 30 lumber option to specialize our ring.
 And that's it, keep upgrading your ring with the recipes on the raid recipes thread in the same manner until it's finished, using the third option in the Wood Trader's Ring menu instead of the 50 or 30 lumber options.
 
 Upgrade your ring to 8%.
+
+The last two upgrades for your ring require drops from raid3, which is considerably harder than raids 1 and 2.
+
+![](https://thumb.ibb.co/fZ76qe/Raid_3.png)
+
+The pheonix boss has three spells, the first being immolate. The next spell summons small invulnerable pheonixes which expire after 5 seconds, these attack nearby players. The last spell is what causes most of the issues, that being regen. Pheonix will "turn blue" and regenerate health rapidly until full, and casts this every 40 seconds. 
+
+As far as I could tell, stunning the boss didn't seem to stop this, but the Whale's Devour ability did. I also suspect the Mermaid's Hex spell would cancel the regen, but we didn't test that. Unless you have/find a way to stop the bosses regeneration, you best find a team that can burst the boss within 40 seconds or so (plus whatever stuns you can chain together).
+
+Ontop of its spells, the Pheonix and it's summons deal a lot of damage, so including a tank and healer in your party goes a long ways to making this fight possible.
+
+The two drops from this raid are the Pheonix Feather items (new 6th slot) which come in the usual array of variations (str/agi/int etc.) as well as the Eternal Flame material.
+
+![](https://image.ibb.co/jGu0iz/Box.png)
+
+![](https://image.ibb.co/d2SaGK/Torch.png)
+
+![](https://image.ibb.co/d3HWqe/Torch2.png)
+
+To my knowledge, the feather has no crafts and exists simply to fill your heroes' inventory to a full 6 slots.
+
+# Note: The feather drop (box) from raid 3's Pheonix boss does not bind on pickup. You can grab it from the floor to see which stat it rolled and then still trade it amongst yourselves until someone saves it.
+
+The second drop, Eternal Flame is used to upgrade our Ring of the Abyss the last two times. Once this is completed and we have a feather that we can tolerate, we have no more use for Hell Raids. All that remains now is the Defense Raids.
+
+# Defense Raids (Pirate Raids)
+
