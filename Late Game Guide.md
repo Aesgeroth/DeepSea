@@ -178,3 +178,22 @@ The second drop, Eternal Flame is used to upgrade our Ring of the Abyss the last
 
 # Defense Raids (Pirate Raids)
 
+The Defense Raids are where we will upgrade our stat item one last time, from a +20 red staff into a blue shell, as shown in the top left of my hero inventory in this picture.
+
+![](https://image.ibb.co/cBWjOz/Ring.png)
+
+There are several tiers of defense raids, requiring your stat item to be at certain thresholds before you are allowed to enter. To reach the raid entrances, go to the bottom left of the pirate region.
+
+![](https://preview.ibb.co/cbtiFe/Defense_Raid_Entry.png)
+
+![](https://preview.ibb.co/jsvkTz/Defense_Raid_Choose.png)
+
+Each raid has the same purpose: defend the base from the mob waves.
+
+![](https://preview.ibb.co/fnhogK/Defense_Raid_Top.png)
+
+![](https://preview.ibb.co/mXAVve/Defense_Raid_Bottom.png)
+
+Enemies will spawn from the top and attack down towards the base, where if the building is destroyed you fail the raid. If you succeed in defending all the waves, each player recieves chest drops in their stash area (even if that player died during the raid). These chests drop materials to upgrade your new stat item, but to convert it from the staff to the blue shell to begin with, you need a drop off the turtle bosses in the raid zone.
+
+These drops happen mid-raid and are not part of your end reward, and will allow you to tier up your stat item, allowing for use of the upgrade materials from the reward chests. It goes to +20.
