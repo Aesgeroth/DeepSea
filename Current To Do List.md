@@ -62,3 +62,5 @@ Pet
 summons mini pheonixs
 
 feathers dont bind on pickup, do on save
+
+Summoning pet and repicking still keeps pet
