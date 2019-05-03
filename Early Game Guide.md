@@ -43,9 +43,9 @@ Once your stat item is +3 and you have hit level 80, it's time to tier up. Head 
 
 ![](https://image.ibb.co/hrMMWK/T1_Boss.png)
 
-![](https://image.ibb.co/k1Ftdz/T1_Potions.png)
+![](https://i.ibb.co/f8kqtW1/T1-Potions.png)
 
-This boss in this cave has three drops. There are two potions, a blue one and an orange one. If you click your class in the top left corner you can see the descriptions of the normal type and the mutant type.
+The boss in this cave has three drops. There are two potions, a blue one and an orange one. If you click your class in the top left corner you can see the descriptions of the normal type and the mutant type.
 
 ![](https://image.ibb.co/bF98BK/Class_Desc.png)
 
