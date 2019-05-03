@@ -39,7 +39,7 @@ This region and the next two all have the same egg drops, so you can farm in any
 
 Once your stat item is +3 and you have hit level 80, it's time to tier up. Head to the Outlaw Residence cave in the region just to the left of the first town.
 
-![](https://image.ibb.co/dobMWK/T1_Boss_Entry.png)
+![](https://image.ibb.co/dobMWK/T1-Boss-Entry.png)
 
 ![](https://image.ibb.co/hrMMWK/T1_Boss.png)
 
@@ -105,7 +105,7 @@ This boss has slow moving bombardment attacks that will oneshot you if they hit,
 
 Now it's time for the last piece of our tier up item.
 
-![](https://image.ibb.co/emhTBK/T2_Boss_Room_Key.png)
+![](https://image.ibb.co/emhTBK/T2-Boss-Room-Key.png)
 
 The miniboss in the Audience Chamber drops keys to go in the boss room, make sure you put it on your hero and not your bag or you will waste the charge.
 
