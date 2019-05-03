@@ -57,7 +57,7 @@ The last drop from the tier boss is a weapon that looks like a gemstone. While i
 
 After we've tiered and hopefully gotten our weapon, it's time to move on to the first town.
 
-![](https://preview.ibb.co/khjarK/Town_1.png)
+![](https://preview.ibb.co/khjarK/Town-1.png)
 
 Here you can heal at the fountain and spend all your gold on allstat upgrades at the obelisk. Don't upgrade just your mainstat as there are item and region entrance requirements which need allstats.
 
