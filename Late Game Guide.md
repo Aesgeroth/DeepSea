@@ -70,7 +70,7 @@ Back at "hg" town, the 2nd last option in the portal will take you to the ticket
 
 ![](https://image.ibb.co/cTiKMK/Portal_Menu.png)
 
-![](https://image.ibb.co/iV1Ffe/Wood_Trader.png)
+![](https://preview.ibb.co/da5xtz/Wood-Trader.png)
 
 The top button here is the one to get a 100% success upgrade, it will spawn in the middle of the shop.
 
