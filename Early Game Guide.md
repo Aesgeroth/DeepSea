@@ -101,7 +101,7 @@ This boss has slow moving bombardment attacks that will oneshot you if they hit,
 
 ![](https://image.ibb.co/kWteJz/T2_Plant_Missiles.png)
 
-![](https://preview.ibb.co/kCjVQe/T2_Plant_Drop.png)
+![](https://ibb.co/nwRzJz)
 
 Now it's time for the last piece of our tier up item.
 
