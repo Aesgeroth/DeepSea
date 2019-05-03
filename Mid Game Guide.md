@@ -28,7 +28,7 @@ If you're dying or need to heal a lot, the portal in town 1 has options to warp 
 
 Your stat item goes to +8 here.
 
-![](https://image.ibb.co/fTE6yz/Town_2.png)
+![](https://preview.ibb.co/eB4TBK/Town-2.png)
 
 ![](https://preview.ibb.co/juFDdz/Atlantis_Ruins.png)
 
