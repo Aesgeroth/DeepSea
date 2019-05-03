@@ -122,7 +122,7 @@ All wisps can drop eggs, which upgrades your stat item to +5. Don't worry too mu
 
 After we have our wisp drop, it's time to tier up for the last time. At 200k you can use the 4th portal button in "hg" town to jump straight to the last town. Then as long as we have the pipe, wisp drop, and fused weapon we should be good to go. Walk into the awakening circle to the right and enjoy your new form. Remember to pick up your weapon from the floor after.
 
-![](https://preview.ibb.co/g5pFve/Awaken_Spot.png)
+![](https://preview.ibb.co/g5pFve/Awaken-Spot.png)
 
 With this, you've graduated from midgame. Welcome to lategame.
 
